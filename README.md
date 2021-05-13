@@ -1,2 +1,2 @@
-# AtletismoSuperFasterProyecto
- Creacion del proyecto de curso
+# AtletismoSuperFaster
+ Creacion del proyecto del curso
