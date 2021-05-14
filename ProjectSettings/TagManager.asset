@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: [Meta, Star, Enemy, Meta]
+  tags:
+  - Meta
+  - Star
+  - Enemy
+  - Meta
+  - Stop
+  - Pelota
+  - Enemy1
+  - Enemy2
+  - Enemy3
   layers:
   - Default
   - TransparentFX
