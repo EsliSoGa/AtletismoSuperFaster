@@ -56,10 +56,6 @@ public class EnemyController : MonoBehaviour
                 animator.SetFloat("SpeedY", 0.0f);
             }
         }
-        if(playerControllerScript.restartJuego == true)
-        {
-            nav.speed += 5;
-        }
         /*if (contadorControllerScript.navInabilitar == true)
         {
             gameObject.GetComponent<NavMeshAgent>().enabled = false;
